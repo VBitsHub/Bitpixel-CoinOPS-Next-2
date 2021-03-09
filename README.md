@@ -1,5 +1,13 @@
 # Bitpixel CoinOPS Next 2
 
+3/9/2021
+
+-Updated retrofe.exe to show coinops on the bitpixel on splash screen.
+
+Copy the coinops.png from the [add to pixelcade-user-folder] and place inside your [drive]:\pixelcade\user folder.
+
+
+
 3/8/2021
 
 Just received my atgames bitpixel and it did not work with Next 2. Added support in retrofe for support for bitPixel.
