@@ -1,4 +1,4 @@
-# Bitpixel CoinOPS Next 2 Support
+# Bitpixel CoinOPS Next 2 Support (Work in Progress)
 
 3/9/2021
 
