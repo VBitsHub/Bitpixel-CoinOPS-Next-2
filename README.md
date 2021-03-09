@@ -1,5 +1,7 @@
 # Bitpixel CoinOPS Next 2 Support (Work in Progress)
 
+This is a work in progress. There may be various major code changes throughout the development.
+
 3/9/2021
 
 -Updated retrofe.exe to show coinops on the bitpixel on splash screen.
