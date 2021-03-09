@@ -2,7 +2,7 @@
 
 3/8/2021
 
-Just received my bitpixel and it did not work with Next 2. Added support in retrofe for support for bitPixel.
+Just received my atgames bitpixel and it did not work with Next 2. Added support in retrofe for support for bitPixel.
 First test release for bitPixel support for Next 2 and later iterations.
 
 This also assumes you have already installed the pixelcade listener at https://pixelcade.org/download-pc/
