@@ -1,4 +1,4 @@
-# Bitpixel CoinOPS Next 2
+# Bitpixel CoinOPS Next 2 Support
 
 3/9/2021
 
@@ -21,7 +21,7 @@ Backup the following files:
 
 Extract to root folder of Coinops Next 2 overwriting the files.
 
-Run bitpixel_lf.exe once. (Only need to run this whenever you add new artwork this)
+Run bitpixel_lf.exe [ip address] once. (Only need to run this whenever you add new artwork this)
 Ex: 
 bitpixel_lf localhost
 or
