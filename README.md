@@ -1,15 +1,20 @@
-# Bitpixel CoinOPS Next 2 Support (Work in Progress)
+# Bitpixel CoinOPS Next 2 Support by VariableBits
 
-This is a work in progress. There may be various major code changes throughout the development.
-You can buy the bitpixel at https://www.atgames.us/
-or the pixelcade at http://pixelcade.org
+You can buy the bitpixel at https://www.atgames.us/ or the pixelcade at http://pixelcade.org
+
+How to use:
+Open the settings.conf
+Go to the bottom and find bitPixelIP. It is set to localhost if your bitPixel is plugged into that computer and has the pixelcade listener installed. If your bitpixel is plugged into another device with a listener running, change localhost to that devices IP address.
+
 
 3/9/2021
 
--Updated retrofe.exe to show coinops on the bitpixel on splash screen.
+- Updated retrofe.exe to show coinops on the bitpixel on splash screen.
+- Added full support for bitpixel in categories and collections.
+- No longer need the bitpixel_lf.exe, that has been removed.
 
 Copy the coinops.png from the [add to pixelcade-user-folder] and place inside your [drive]:\pixelcade\user folder.
-
+Copy the folders in [add to root of pixelcade folder] to the root of your pixelcade folder.
 
 
 3/8/2021
