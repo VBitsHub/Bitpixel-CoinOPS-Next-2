@@ -2,7 +2,7 @@
 
 This is a work in progress. There may be various major code changes throughout the development.
 You can buy the bitpixel at https://www.atgames.us/
-or the pixelcade at pixelcade.org
+or the pixelcade at http://pixelcade.org
 
 3/9/2021
 
