@@ -5,16 +5,16 @@ If you have any problems lmk and post the log file to the issues. TIA.
 
 
 How to use:
-Open the settings.conf
+Open the settings.conf<br/>
 Go to the bottom and find bitPixelIP. It is set to localhost if your bitPixel is plugged into that computer and has the pixelcade listener installed. If your bitpixel is plugged into another device with a listener running, change localhost to that devices IP address.
 
 Delete the core folder and replace it with this core folder. Do not overwrite existing as it may lead to issues. Delete the core folder that came with next 2.
 
-3/10/2021
+**3/10/2021**
 
 - Reuploaded files in the core folder as several of the files became corrupt.
 
-3/9/2021
+**3/9/2021**
 
 - Updated retrofe.exe to show coinops on the bitpixel on splash screen.
 - Added full support for bitpixel in categories and collections.
@@ -24,7 +24,7 @@ Copy the coinops.png from the [add to pixelcade-user-folder] and place inside yo
 Copy the folders in [add to root of pixelcade folder] to the root of your pixelcade folder.
 
 
-3/8/2021
+**3/8/2021**
 
 Just received my atgames bitpixel and it did not work with Next 2. Added support in retrofe for support for bitPixel.
 First test release for bitPixel support for Next 2 and later iterations.
