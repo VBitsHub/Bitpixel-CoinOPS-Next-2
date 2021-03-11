@@ -1,6 +1,8 @@
 # Bitpixel CoinOPS Next 2 Support by VariableBits
 
 You can buy the bitpixel at https://www.atgames.us/ or the pixelcade at http://pixelcade.org
+If you have any problems lmk and post the log file to the issues. TIA.
+
 
 How to use:
 Open the settings.conf
