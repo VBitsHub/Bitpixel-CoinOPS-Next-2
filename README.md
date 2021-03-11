@@ -35,13 +35,15 @@ Backup the following files:
 \Next2\settings.conf
 \Next2\core
 
-Extract to root folder of Coinops Next 2 overwriting the files.
+~Extract to root folder of Coinops Next 2 overwriting the files.
 
 Run bitpixel_lf.exe [ip address] once. (Only need to run this whenever you add new artwork this)
 Ex: 
 bitpixel_lf localhost
 or
-bitpixel_lf 192.168.1.11
+bitpixel_lf 192.168.1.11~
+
+Delete core folder and extract to root folder.
 
 
 Open settings.conf
