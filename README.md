@@ -10,6 +10,9 @@ Go to the bottom and find bitPixelIP. It is set to localhost if your bitPixel is
 
 Delete the core folder and replace it with this core folder. Do not overwrite existing as it may lead to issues. Delete the core folder that came with next 2.
 
+3/10/2021
+
+- Reuploaded files in the core folder as several of the files became corrupt.
 
 3/9/2021
 
