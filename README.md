@@ -31,24 +31,24 @@ First test release for bitPixel support for Next 2 and later iterations.
 
 This also assumes you have already installed the pixelcade listener at https://pixelcade.org/download-pc/
 
-Backup the following files:
-\Next2\settings.conf
-\Next2\core
+Backup the following files:<br/>
+\Next2\settings.conf<br/>
+\Next2\core<br/>
 
-~~Extract to root folder of Coinops Next 2 overwriting the files.
+~~Extract to root folder of Coinops Next 2 overwriting the files.~~
 
-Run bitpixel_lf.exe [ip address] once. (Only need to run this whenever you add new artwork this)
-Ex: 
-bitpixel_lf localhost
-or
-bitpixel_lf 192.168.1.11~~
+~~Run bitpixel_lf.exe [ip address] once. (Only need to run this whenever you add new artwork this)~~
+~~Ex:~~
+~~bitpixel_lf localhost~~
+~~or~~
+~~bitpixel_lf 192.168.1.11~~
 
 Delete core folder and extract to root folder.
 
 
-Open settings.conf
-Look for #BitPixel Integration
-set 
+Open settings.conf<br/>
+Look for #BitPixel Integration<br/>
+set <br/>
 enableBitPixel = true
 
 and set
@@ -56,5 +56,5 @@ bitPixelIP = localhost or whatever IP address your bitPixel is assigned to.
 
 Now just run CoinOPS Next 2 like normal.
 
-*Note: You will only have to run the bitpixel_lf if you add new artwork for the bitpixel
+~~*Note: You will only have to run the bitpixel_lf if you add new artwork for the bitpixel~~
 
