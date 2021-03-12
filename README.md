@@ -1,10 +1,10 @@
-# Bitpixel CoinOPS Next 2 Support by VariableBits
+# Bitpixel/Pixelcade CoinOPS Next 2 Support by VariableBits
 
 You can buy the bitpixel at https://www.atgames.us/ or the pixelcade at http://pixelcade.org
 If you have any problems lmk and post the log file to the issues. TIA.
 
 
-How to use:
+How to use:<br/>
 Open the settings.conf<br/>
 Go to the bottom and find bitPixelIP. It is set to localhost if your bitPixel is plugged into that computer and has the pixelcade listener installed. If your bitpixel is plugged into another device with a listener running, change localhost to that devices IP address.
 
